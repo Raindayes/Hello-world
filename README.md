@@ -1,3 +1,2 @@
 # hello-world
-this is hello-world repository
-I am testing git-hub for using it
+this is another repository i create 
